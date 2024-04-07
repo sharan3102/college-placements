@@ -14,20 +14,23 @@ We are organizing a peer mentorship initiative to support unplaced students irre
 - [Neetcode Youtube Channel](https://www.youtube.com/@NeetCode)
 - [LeetCode](https://leetcode.com/)
 - [Abdul Bari DSA](https://www.youtube.com/@abdul_bari)
+- [Version Control ](https://www.youtube.com/playlist?list=PLRAV69dS1uWT4v4iK1h6qejyhGObFH9_o)
+
+
+## Prerequisites ✅
+
+| Topics  | Importance |
+| ------------- | ------------- |
+| Version Control aka Git and Github  | ⭐️⭐️⭐️⭐️⭐️  |
+| Arrays  | ⭐️⭐️⭐️⭐️⭐️  |
+| Strings  | ⭐️⭐️⭐️⭐️  |
+| Basic Syntax in any language  | ⭐️⭐️⭐️⭐️⭐️  |
 
 
 
 ## Contributing ❤️
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-
-
-## Support 🤝🏻
-
-If you find this useful and would like to support its development, consider cloning this and create a PR! Your support helps maintain and improve the process 🔥
-
-Special shoutout to **NeetCode.io** all hearts man <3
 
 ---
 
@@ -532,4 +535,11 @@ What are the key principles of software refactoring?
 
 **Solution:**
  Principles include improving code readability, simplifying complex code, eliminating redundancy, and maintaining or improving software performance without changing its external behavior.
- 
+
+---
+
+## Support 🤝🏻
+
+If you find this useful and would like to support its development, consider cloning this and create a PR! Your support helps maintain and improve the process 🔥
+
+Special shoutout to **NeetCode.io** all hearts man <3
