@@ -1,4 +1,38 @@
 
+# Peer Mentorship for SVCE Placement Drives 🙌🏻⚡️🧠
+
+We are organizing a peer mentorship initiative to support unplaced students irrespective of the department. Placed students are encouraged to create and share scenario-based industry perspective questions and solutions. The goal is to enhance interview preparation, improve communication skills, and ultimately help all students secure placements in the challenging external job market. 
+
+## Objective 🎯
+- Create scenario-based industry perspective questions and solutions.
+- Foster peer mentoring among placed and unplaced students.
+- Enhance interview and communication skills.
+
+## Resources 📚🗂️
+
+- [Neetcode 150 Questions RoadMap](https://neetcode.io/roadmap)
+- [Neetcode Youtube Channel](https://www.youtube.com/@NeetCode)
+- [LeetCode](https://leetcode.com/)
+- [Abdul Bari DSA](https://www.youtube.com/@abdul_bari)
+
+
+
+## Contributing ❤️
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+
+
+## Support 🤝🏻
+
+If you find this useful and would like to support its development, consider cloning this and create a PR! Your support helps maintain and improve the process 🔥
+
+Special shoutout to **NeetCode.io** all hearts man <3
+
+---
+
+# Here are some interview questions ⏬
+
 ### 1. Website Loading Slowly 🐢
 **Question:**
 
